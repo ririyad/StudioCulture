@@ -11,7 +11,7 @@ Studio Culture is a repository about a specification what a studio should looks 
 
 <details>
     <summary>
-        ### Why in the earth I am calling this **Studio** instead of **Office**? 
+        Why in the earth I am calling this **Studio** instead of **Office**? 
     </summary>
         Answer: *Yet to write*
 </details>
